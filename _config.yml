@@ -1,0 +1,13 @@
+# Site settings
+title: Power Grid Lib, A Library of IEEE PES Benchmarks for Validation of Power System Algorithms
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This website discribes Power Grid Lib, a library of offical IEEE PES benchmarks for validation of power system algorithms.
+  This library is administrated by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown

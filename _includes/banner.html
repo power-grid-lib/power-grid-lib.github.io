@@ -1,0 +1,15 @@
+<div id="header_wrap" class="outer">
+    <header class="inner">
+      <a id="forkme_banner" href="https://github.com/{{site.data.config.github_repo_id}}">View on GitHub</a>
+
+      <h1 id="project_title">{{ site.data.config.display_title }}</h1>
+      <h2 id="project_tagline">{{ site.data.config.display_tagline }}</h2>
+
+      {% if site.data.config.download_zip and site.data.config.download_tar %}
+      <section id="downloads">
+        <a class="zip_download_link" href="site.data.config.download_zip">Download this project as a .zip file</a>
+        <a class="tar_download_link" href="site.data.config.download_tar">Download this project as a tar.gz file</a>
+      </section>
+      {% endif %}
+    </header>
+</div>
