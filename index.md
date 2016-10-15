@@ -10,9 +10,9 @@ Power Grid Lib is curated and maintained by the [IEEE Power and Energy Society](
 
 ### Motivation
 
-Inspired by the success of from benchmark libraries in optimization community, such as [MIPlib](http://miplib.zib.de/), [CSPlib](http://www.csplib.org/), [TSPlib](http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/), Power Grid Lib strives to compile similar collections of benchmarks for validating power system algorithms ([more motivation details](https://www.youtube.com/watch?v=8G2iNigNvVM)).
+Inspired by the success of benchmark libraries in optimization community, such as [MIPlib](http://miplib.zib.de/), [CSPlib](http://www.csplib.org/), [TSPlib](http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/), Power Grid Lib strives to compile similar collections of benchmarks for validating power system algorithms ([more motivation details](https://www.youtube.com/watch?v=8G2iNigNvVM)).
 
-The benchmark repositories in Power Grid Lib are curated by IEEE PES domain experts with the follow guiding principals in mind,
+The benchmark repositories in Power Grid Lib are curated by domain experts with the follow guiding principals in mind,
 
 ##### Community Curated
 
