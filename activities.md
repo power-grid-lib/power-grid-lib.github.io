@@ -6,7 +6,7 @@ layout: default
 
 ### 2017
 
-- Hosed the IEEE PES panel session, _Recent Developments in High-Fidelity Large-Scale Power System Datasets_
+- Hosted the IEEE PES panel session, _Recent Developments in High-Fidelity Large-Scale Power System Datasets_
   - _EPIGRIDS: Electric Power Infrastructure & Grid Representations in Interoperable Datasets_, Chris DeMarco, University of Wisconsin-Madison ([slides](media/pesgm_17_demarco.pdf))
   - _Sustainable Data Evolution Technology for Power Grid Optimization_, Ruisheng Diao, PNNL ([slides](media/pesgm_17_diao.pdf))
   - _Synthetic Data for Power Grid R&D_, Adam Birchfield, Texas A&M University ([slides](media/pesgm_17_birchfield.pdf))
