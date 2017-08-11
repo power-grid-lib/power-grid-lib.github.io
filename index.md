@@ -5,7 +5,7 @@ layout: default
 ### Introduction
 
 Welcome to the official website for [Power Grid Lib](https://github.com/power-grid-lib); a collection of git repositories containing benchmarks for validating power system algorithms in a variety of application domains.
-Power Grid Lib is curated and maintained by the [IEEE Power and Energy Society](http://www.ieee-pes.org/) **Task Force on Benchmarks for Validation of Emerging Power System Algorithms**.
+Power Grid Lib is curated and maintained by the [IEEE Power and Energy Society](http://www.ieee-pes.org/) **Task Force on Benchmarks for Validation of Emerging Power System Algorithms**.  See [this page](activities.html) for a complete list of Power Grid Lib activities.
 
 
 ### Motivation
