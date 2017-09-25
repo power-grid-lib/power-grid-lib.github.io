@@ -6,6 +6,7 @@ layout: default
 
 ### 2017
 
+- Inaugural release of the [PGLib OPF](https://github.com/power-grid-lib/pglib-opf) benchmarks and [presentation](https://youtu.be/fC3hzddCJ2c).
 - Hosted the IEEE PES panel session, _Recent Developments in High-Fidelity Large-Scale Power System Datasets_
   - _EPIGRIDS: Electric Power Infrastructure & Grid Representations in Interoperable Datasets_, Chris DeMarco, University of Wisconsin-Madison ([slides](media/pesgm_17_demarco.pdf))
   - _Sustainable Data Evolution Technology for Power Grid Optimization_, Ruisheng Diao, PNNL ([slides](media/pesgm_17_diao.pdf))
