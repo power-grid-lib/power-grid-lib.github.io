@@ -6,12 +6,12 @@ layout: default
 
 ### 2018
 
-- Minor update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf).
+- Minor update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf/tree/v18.06).
 
 
 ### 2017
 
-- Inaugural release of the [PGLib OPF benchmarks (v17.08)](https://github.com/power-grid-lib/pglib-opf) and [introductory presentation](https://youtu.be/fC3hzddCJ2c).
+- Inaugural release of the [PGLib OPF benchmarks (v17.08)](https://github.com/power-grid-lib/pglib-opf/tree/v17.08) and [introductory presentation](https://youtu.be/fC3hzddCJ2c).
 - Hosted the IEEE PES panel session, _Recent Developments in High-Fidelity Large-Scale Power System Datasets_
   - _EPIGRIDS: Electric Power Infrastructure & Grid Representations in Interoperable Datasets_, Chris DeMarco, University of Wisconsin-Madison ([slides](media/pesgm_17_demarco.pdf))
   - _Sustainable Data Evolution Technology for Power Grid Optimization_, Ruisheng Diao, PNNL ([slides](media/pesgm_17_diao.pdf))
