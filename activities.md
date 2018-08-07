@@ -4,6 +4,11 @@ layout: default
 
 ## Power Grid Lib Activities
 
+### 2018
+
+- Minor update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf).
+
+
 ### 2017
 
 - Inaugural release of the [PGLib OPF benchmarks (v17.08)](https://github.com/power-grid-lib/pglib-opf) and [introductory presentation](https://youtu.be/fC3hzddCJ2c).
