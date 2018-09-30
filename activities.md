@@ -6,6 +6,7 @@ layout: default
 
 ### 2018
 
+- Release of the [PGLib OPF benchmarks (v18.08)](https://github.com/power-grid-lib/pglib-opf/tree/v18.08) and [update presentation](https://youtu.be/vx7KWGWkzs8).
 - Minor update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf/tree/v18.06).
 
 
