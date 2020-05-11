@@ -4,10 +4,21 @@ layout: default
 
 ## Power Grid Lib Activities
 
+### 2019
+
+- Inaugural release of the [PGLib UC benchmarks](https://github.com/power-grid-lib/pglib-uc).
+- Inaugural release of the [PGLib OPF-HVDC benchmarks](https://github.com/power-grid-lib/pglib-opf-hvdc).
+- First Release of the [PGLib OPF benchmarks report](https://arxiv.org/abs/1908.02788).
+- The fourth annual meeting of Task Force at the IESS PES General Meeting.  [Presentation](https://youtu.be/9R2viRE3ops).
+- Maintinance update of the [PGLib OPF benchmarks (v19.05)](https://github.com/power-grid-lib/pglib-opf/tree/v19.05).
+- Maintinance update of the [PGLib OPF benchmarks (v19.01)](https://github.com/power-grid-lib/pglib-opf/tree/v19.01).
+
+
 ### 2018
 
 - Release of the [PGLib OPF benchmarks (v18.08)](https://github.com/power-grid-lib/pglib-opf/tree/v18.08) and [update presentation](https://youtu.be/vx7KWGWkzs8).
-- Minor update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf/tree/v18.06).
+- The third annual meeting of Task Force at the IESS PES General Meeting.  [Presentation](https://youtu.be/vx7KWGWkzs8).
+- Maintinance update of the [PGLib OPF benchmarks (v18.06)](https://github.com/power-grid-lib/pglib-opf/tree/v18.06).
 
 
 ### 2017
@@ -29,6 +40,7 @@ layout: default
 - Establishment of the [Power Grid Lib github organization](https://github.com/power-grid-lib)
 - Establishment of the [Power Grid Lib e-mail list](https://groups.google.com/forum/#!forum/ieee-pes-benchmarks) 
 - The inaugural meeting of Task Force at the IESS PES General Meeting.  Presentation [Part 1](https://youtu.be/8G2iNigNvVM), [Part 2](https://youtu.be/lEoxwgM-Ua4), [Part 3](https://youtu.be/9ZHcM3-mn-o).
+
 
 ### 2015
 
